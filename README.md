@@ -1,6 +1,5 @@
 # protoscan
-* Prototype Pollution Scanner made in Golang, it was actually made by @tomnomnom in NahamCon2021 https://www.youtube.com/watch?v=Gv1nK6Wj8qM
-* I just made it for fun and added some extra features 
+* Prototype Pollution Scanner made in Golang
 
 # Installation:
 
