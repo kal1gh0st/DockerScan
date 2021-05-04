@@ -3,7 +3,7 @@
 
 # Installation:
 
-`go get github.com/KathanP19/protoscan`
+`go get github.com/kal1gh0st/protoscan`
 
 # Usage:
 ```
