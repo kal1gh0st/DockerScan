@@ -2,6 +2,7 @@
 * Prototype Pollution Scanner made in Golang
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="70" height="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/>
     </p>
 
 # Installation:
