@@ -2,3 +2,5 @@ http://tomnomnom.uk/pp/?page=home
 https://example.com 
 https://prototype-pollution.tomnomnom.repl.co
 https://hackerone.com
+https://github.com
+https://www.femet.it
